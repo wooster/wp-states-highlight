@@ -36,13 +36,13 @@ then use:
 And the file would be included in the post, syntax highlighted and everything,
 with a link to the original file at the bottom of the code. I personally
 prefer this method, and it's the reason I wrote the plugin. Thanks to Dunstan
-Orchard for the idea[^1].
+Orchard [for the idea] [1].
 
 The valid values of the `lang` attribute are: ada, asm, awk, c, changelog, cpp, 
 diff, diffu, delphi, elisp, fortran, haskell, html, idl, java, javascript, mail, 
 makefile, nroff, objc, pascal, perl, postscript, php, python, scheme, sh, sql, 
 states, synopsys, tcl, verilog, vhdl, and vba. These correspond, with my own 
-addition of php, to the descriptions on enscript's highlightings page[^2].
+addition of php, to the descriptions on [enscript's highlightings page] [2].
 
 INSTALLATION
 ============
@@ -136,6 +136,6 @@ For copyright information, see COPYING.
 
 CITATIONS
 =========
-[^1]:  http://www.1976design.com/blog/archive/site-news/2004/07/29/redesign-tag-transform/
+[1]:  http://www.1976design.com/blog/archive/site-news/2004/07/29/redesign-tag-transform/
 
-[^2]: http://www.codento.com/people/mtr/genscript/highlightings.html
+[2]: http://www.codento.com/people/mtr/genscript/highlightings.html
