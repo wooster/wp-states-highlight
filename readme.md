@@ -134,8 +134,6 @@ For copyright information, see COPYING.
 
 [GNU Enscript](http://www.codento.com/people/mtr/genscript/)
 
-CITATIONS
-=========
 [1]:  http://www.1976design.com/blog/archive/site-news/2004/07/29/redesign-tag-transform/
 
 [2]: http://www.codento.com/people/mtr/genscript/highlightings.html
