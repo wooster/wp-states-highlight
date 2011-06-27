@@ -1,12 +1,18 @@
-2005-01-30  Andrew Wooster
-    * states-highlight.php: Updated the regular expressions so the two types of
-      code tags play nicely together when used in the same post.
+# wp-states-highlight Changelog
 
-2005-01-24  Andrew Wooster
-    * states-highlight.php: XHTML validation work. Changed code wrapper from 
-      <pre class="source">...</pre> to <code class="source">...</code>. Changed 
-      download link from a span to a div.
-    * readme.txt: Updated styles to reflect the above.
+## 2011-06-26 Andrew Wooster
 
-2005-01-23  Andrew Wooster
-    * Initial release.
+* Moved project to Github.
+
+## 2005-01-30  Andrew Wooster
+
+* states-highlight.php: Updated the regular expressions so the two types of code tags play nicely together when used in the same post.
+
+## 2005-01-24  Andrew Wooster
+
+* states-highlight.php: XHTML validation work. Changed code wrapper from `<pre class="source">...</pre>` to `<code class="source">...</code>`.Changed  download link from a span to a div.
+* readme.txt: Updated styles to reflect the above.
+
+## 2005-01-23  Andrew Wooster
+
+* Initial release.

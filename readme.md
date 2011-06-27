@@ -64,7 +64,7 @@ enscript should now be installed in `/some-safe-path/enscript`, where
 document root.
 
 Now, you'll need to get my modified enscript.st file (available at 
-http://www.nextthing.org/code/enscript/) and put it in your
+https://github.com/wooster/enscript-extras) and put it in your
 `wordpress/wp-content/plugins` directory. Also place the `states-highlight.php`
 file in the same directory.
 
@@ -132,7 +132,7 @@ For copyright information, see COPYING.
 
 [WordPress](http://www.wordpress.org/)
 
-[GNU Enscript](http://www.codento.com/people/mtr/genscript/)
+[GNU Enscript](http://www.markkurossi.com/genscript/)
 
 [1]:  http://www.1976design.com/blog/archive/site-news/2004/07/29/redesign-tag-transform/
 
